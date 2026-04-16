@@ -1,10 +1,4 @@
-<!DOCTYPE html>
 
-<html>
-<head>
-  <title>Intelligent Interruption Handling - Voice AI Agent</title>
-</head>
-<body>
 
 <h1>🎙️ Intelligent Interruption Handling for Voice AI Agent</h1>
 
@@ -165,7 +159,7 @@ hello           → RESPOND
 
 <h2>🎥 Demo Video</h2>
 <p>
-<a href="#">👉 Add your demo video link here</a>
+<a href="https://drive.google.com/file/d/107Zc57PlQg41VAcZ3j7ns8wzJC09NlEW/view?usp=sharing">👉 Add your demo video link here</a>
 </p>
 
 <hr>
