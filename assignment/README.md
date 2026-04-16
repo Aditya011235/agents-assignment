@@ -1,6 +1,7 @@
 
 
-<h1>🎙️ Intelligent Interruption Handling for Voice AI Agent</h1>
+<h1>LiveKit Intelligent Interruption Handling 
+Challenge </h1>
 
 <h2>🚀 Overview</h2>
 <p>
